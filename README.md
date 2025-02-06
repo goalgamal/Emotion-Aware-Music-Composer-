@@ -93,7 +93,7 @@ Contributions are welcome! To contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-- **Author**: Your Name
+- **Author**: Goal Gamal
 - **GitHub**: [goalgamal](https://github.com/goalgamal)
 - **Email**: goalgamal8@gmail.com
 
