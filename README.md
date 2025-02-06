@@ -94,8 +94,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 - **Author**: Your Name
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
+- **GitHub**: [goalgamal](https://github.com/goalgamal)
+- **Email**: goalgamal8@gmail.com
 
 ---
 
